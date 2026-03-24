@@ -11,7 +11,7 @@ driver = webdriver.Chrome(options=opts)
 
 
 
-driver.get(r'C:\Users\abhis\OneDrive\Desktop\Selenium\JECRC\20-03-2026\playlist.html')
+driver.get(r'"C:\Users\mridu\Downloads\playlist.html"')
 driver.maximize_window()
 
 
